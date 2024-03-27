@@ -1,5 +1,5 @@
 # Card Validation
 
-[Ссылка на pages](https://parilov-alexx.github.io/whack-a-goblin/)
+[Ссылка на pages](https://parilov-alexx.github.io/luhn-testing/)
 
-![CI](https://github.com/parilov-alexx/whack-a-goblin/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/5p1qnbyae7dbi2w2?svg=true)](https://ci.appveyor.com/project/parilov-alexx/luhn-testing)
